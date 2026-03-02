@@ -31,23 +31,26 @@ This project includes login, registration, product pages, and a basic front-end 
 
 ## 📂 Project Structure
 
-$ tree
-
-Fashion-Rental-Website
-├── images
-├── index.html
-├── login.html
-├── registration.html
-├── menitem.html
-├── womenitem.html
-├── shoeitem.html
-├── Watchitems.html
-├── shop.html
-├── contactus.html
-├── login.js
-├── registrationformlogic.js
-├── style.css
-└── README.md
+Fashion-Rental-Website/
+│
+├── images/                        # All website images
+│
+├── index.html                     # Home page
+├── login.html                     # Login page
+├── registration.html              # Registration page
+├── menitem.html                   # Men's items page
+├── womenitem.html                 # Women's items page
+├── shoeitem.html                  # Shoe items page
+├── Watchitems.html                # Watch items page
+├── shop.html                      # Shop page
+├── contactus.html                 # Contact page
+│
+├── login.js                       # Login logic
+├── registrationformlogic.js       # Registration validation
+│
+├── style.css                      # Main stylesheet
+│
+└── README.md                      # Project documentation
 
 ## ▶️ How to Run the Project
 
@@ -92,6 +95,7 @@ If you are using VS Code:
 ## 📄 License
 
 This project is for educational purposes only.
+
 
 
 
