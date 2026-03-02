@@ -30,7 +30,7 @@ This project includes login, registration, product pages, and a basic front-end 
 ---
 
 ## 📂 Project Structure
-'''
+---
 Fashion-Rental-Website/
 │
 ├── images/                        # All website images
@@ -51,7 +51,7 @@ Fashion-Rental-Website/
 ├── style.css                      # Main stylesheet
 │
 └── README.md                      # Project documentation
-'''
+---
 
 ## ▶️ How to Run the Project
 
@@ -96,8 +96,3 @@ If you are using VS Code:
 ## 📄 License
 
 This project is for educational purposes only.
-
-
-
-
-
