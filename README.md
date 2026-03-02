@@ -33,30 +33,24 @@ This project includes login, registration, product pages, and a basic front-end 
 
 Fashion-Rental-Website/
 │
-├── assets/
-│   ├── images/
-│   ├── css/
-│   │   └── style.css
-│   └── js/
-│       ├── login.js
-│       └── registrationformlogic.js
+├── images/ # All website images
 │
-├── pages/
-│   ├── login.html
-│   ├── registration.html
-│   ├── menitem.html
-│   ├── womenitem.html
-│   ├── shoeitem.html
-│   ├── Watchitems.html
-│   ├── shop.html
-│   └── contactus.html
+├── index.html # Home page
+├── login.html # Login page
+├── registration.html # Registration page
+├── menitem.html # Men's items page
+├── womenitem.html # Women's items page
+├── shoeitem.html # Shoe items page
+├── shop.html # Shop page
+├── contactus.html # Contact page
+├── Watchitems.html # Watch items page
 │
-├── index.html
-├── README.md
-└── Fashion_Rent_Report.docx
-
-
----
+├── login.js # Login logic
+├── registrationformlogic.js # Registration validation
+│
+├── style.css # Main stylesheet
+│
+└── README.md # Project documentation
 
 ## ▶️ How to Run the Project
 
@@ -101,3 +95,4 @@ If you are using VS Code:
 ## 📄 License
 
 This project is for educational purposes only.
+
