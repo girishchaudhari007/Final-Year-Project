@@ -30,7 +30,7 @@ This project includes login, registration, product pages, and a basic front-end 
 ---
 
 ## 📂 Project Structure
-
+$ tree
 Fashion-Rental-Website/
 │
 ├── images/ # All website images
@@ -95,4 +95,5 @@ If you are using VS Code:
 ## 📄 License
 
 This project is for educational purposes only.
+
 
